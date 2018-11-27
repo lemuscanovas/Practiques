@@ -20,3 +20,4 @@ Un cop haguem instal·lat R al nostre ordinador, procedirem a descarregar i inst
 Accés a les pràctiques guiades amb R
 ---------
 - [Pràctica 2](https://github.com/lemuscanovas/Practiques/blob/master/P2.md)
+- [Pràctica 5](https://github.com/lemuscanovas/Practiques/blob/master/P5.md)
