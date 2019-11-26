@@ -5,7 +5,7 @@ Pràctiques de l'assignatura Geografia Física i Climatologia del Grau de Ciènc
 
 Recomanació (i oportunitat)
 ----------
-Si disposeu de temps i ganes, us recomanaria que abans de començar amb la pràctica 2 i seguir el tutorial pas per pas, féssiu el **curs d'introducció a R** organitzat per DataCamp. És molt fàcil i interactiu. A més, us donen un certificat que acredita el curs. https://www.datacamp.com/courses/free-introduction-to-r
+Si disposeu de temps i ganes, us recomanaria que abans de començar amb la pràctica 2 i seguir el tutorial pas per pas, féssiu el **curs d'introducció a R** organitzat per DataCamp. És molt fàcil i interactiu. https://www.datacamp.com/community/open-courses/introduccion-a-r
 
 Instal·la R i R Studio
 ----------
